@@ -1,0 +1,13 @@
+{
+    "name": "mantis/mantis",
+    "description": "",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src"
+        }
+    }
+}
